@@ -4,6 +4,7 @@ C code for calculating CRC8 of Jetson Nano EEPROM
 Installation:
 
 $ make
+
 $ make install
 
 If you'd like to change default install path, please use
